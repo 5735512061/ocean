@@ -1,0 +1,55 @@
+.wrap {
+    display: flex;
+    background: #ffffff;
+    padding: 1rem 1rem 1rem 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 7px 7px 30px -5px rgba(0,0,0,0.1);
+    margin-bottom: 2rem;
+}
+
+.wrap:hover {
+    background: hsl(30, 24%, 90%);
+    color: white;
+}
+
+.mbr-iconfont {
+    font-size: 2.5rem !important;
+    color: #313131;
+    margin: 1rem;
+    padding-right: 3rem;
+}
+
+.mbr-section-title3 {
+    text-align: left;
+    margin-top: 26px;
+}
+h2 {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.display-5 {
+    font-family: 'Mitr',sans-serif;
+    font-size: 1.4rem;
+}
+.mbr-bold {
+    font-weight: 700;
+}
+
+ p {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    line-height: 32px;
+}
+.display-6 {
+    font-family: 'Mitr',sans-serif;
+    font-size: 1re}
+
+.ellipsis-verti{
+    display:block;
+    width:100%;
+    text-overflow:ellipsis;
+    overflow:hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
