@@ -182,9 +182,9 @@
 			  </table>
 		</div>
 	</div>
-	<div class="row mt-5">
+	<div class="row mt-5" >
 		<div class="col-md-5">
-			<img src="{{url('/frontend/assets/img/content_6.jpg')}}" alt="">
+			<img src="{{url('/frontend/assets/img/content_6.jpg')}}" alt="" style="margin-bottom: 50px;">
 		</div>
 		<div class="col-md-7">
 			<h3><strong>@lang('content.title_6')</strong></h3>
